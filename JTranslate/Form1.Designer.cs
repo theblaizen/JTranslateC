@@ -133,9 +133,9 @@
             this.lbWords.AutoSize = true;
             this.lbWords.Location = new System.Drawing.Point(39, 219);
             this.lbWords.Name = "lbWords";
-            this.lbWords.Size = new System.Drawing.Size(35, 13);
+            this.lbWords.Size = new System.Drawing.Size(21, 13);
             this.lbWords.TabIndex = 8;
-            this.lbWords.Text = "label3";
+            this.lbWords.Text = "lab";
             // 
             // btnSave
             // 
